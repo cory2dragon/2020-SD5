@@ -1,0 +1,65 @@
+body{
+  background:black;
+  color:white;
+}
+#solar{
+  position:absolute;
+  left:0px;
+  top:0px;
+}
+input {
+  width: 40px;
+}
+.correct{
+  background:lime;
+}
+.incorrect{
+  background:red;
+}
+#saturnText1{
+  position:absolute;
+  left:725px;
+  top:300px;
+}
+#saturnText2{
+  position:absolute;
+  left:725px;
+  top:325px;
+}
+#saturnText3{
+  position:absolute;
+  left:725px;
+  top:350px;
+  width:300px;
+}
+#uranusText1{
+  position:absolute;
+  left:100px;
+  top:-325px;
+}
+#uranusText2{
+  position:absolute;
+  left:100px;
+  top:-300px;
+}
+#uranusText3{
+  position:absolute;
+  left:50px;
+  top:-275px;
+  width: 300px;
+}
+#neptuneText1{
+  position:absolute;
+  left:950px;
+  top:175px;
+}
+#neptuneText2{
+  position:absolute;
+  left:950px;
+  top:200px;
+}
+#neptuneText3{
+  position:absolute;
+  left:950px;
+  top:225px;
+}
